@@ -15,6 +15,6 @@ public class Q3 {
         System.out.println("The length of the side is " + side +
                 " whose perimeter is " + perimeter);
 
-        sc.close();
+        sc.close(); 
     }
 }
